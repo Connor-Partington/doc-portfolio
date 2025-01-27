@@ -5,7 +5,7 @@ import starlight from '@astrojs/starlight';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://connor-partington.github.io',
-	base: 'doc-portfolio',
+	base: '/doc-portfolio',
 	integrations: [
 		starlight({
 			title: 'Connor Partington',
