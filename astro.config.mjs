@@ -6,21 +6,23 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'Connor Partington',
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				github: 'https://github.com/Connor-Partington',
+				linkedin: 'https://www.linkedin.com/in/connor-partington/',
 			},
 			sidebar: [
 				{
-					label: 'Guides',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
-					],
+					label: 'Examples',
+					autogenerate: { directory: 'guides' },
 				},
 				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: 'Templates',
+					autogenerate: { directory: 'templates' },
+				},
+				{
+					label: 'Recommendations',
+					autogenerate: { directory: 'recommendations' },
 				},
 			],
 		}),
