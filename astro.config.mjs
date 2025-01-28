@@ -23,6 +23,10 @@ export default defineConfig({
 					autogenerate: { directory: 'templates' },
 				},
 				{
+					label: 'Projects',
+					autogenerate: { directory: 'projects' },
+				},
+				{
 					label: 'Recommendations',
 					autogenerate: { directory: 'recommendations' },
 				},
