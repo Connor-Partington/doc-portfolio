@@ -3,9 +3,9 @@ title: Release Notes, Autocab
 description: An example of release notes for a software product.
 ---
 
-While working at [Autocab](https://support.autocab.com/hc/en-gb), I wrote these release notes to help users find out about the latest changes to the Autocab software. Autocab is the UK's market leading taxi & private hire booking and dispatch software provider, offering innovative solutions to help businesses go further.
+While working at [Autocab](https://support.autocab.com/hc/en-gb), I wrote release notes for each major version of the software, to help users find out about the latest changes to the Autocab software. Autocab is the UK's market leading taxi & private hire booking and dispatch software provider, offering innovative solutions to help businesses go further.
 
-**Tools used: Markdown, Zendesk**
+**Tools used: Markdown, Zendesk, Jira, GIMP**
 
 # 365 Control Centre 0.19.2240
 
