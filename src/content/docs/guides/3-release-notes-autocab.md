@@ -96,14 +96,14 @@ The following changes have been made to the [ROTF feature](https://autocab.zende
 
 Shortcuts:
 
-* Esc: Deselect a selected zone or cancel boundary changes when editing a zone. 
-* Ctrl+Z: Undo the last change.
-* Ctrl+Q: Create a new zone.
-* Ctrl+E: Edit the selected zone.
-* Ctrl+C: Center the map or on a selected zone.
-* Tab: Select the next zone or a zone if none are selected. 
-* Shift+Tab: Select the previous zone or last if none are selected.
-* Enter: Confirm changes when editing.
+* **Esc**: Deselect a selected zone or cancel boundary changes when editing a zone. 
+* **Ctrl+Z**: Undo the last change.
+* **Ctrl+Q**: Create a new zone.
+* **Ctrl+E**: Edit the selected zone.
+* **Ctrl+C**: Center the map or on a selected zone.
+* **Tab**: Select the next zone or a zone if none are selected. 
+* **Shift+Tab**: Select the previous zone or last if none are selected.
+* **Enter**: Confirm changes when editing.
 
 ### Booking controls: delete non-default rule
 
