@@ -1,9 +1,9 @@
 ---
-title: Release Notes, Wazoku
+title: 'Release Notes #1'
 description: An example of release notes for a software product.
 ---
 
-While working at [Wazoku](https://support.wazoku.com/), I wrote monthly release notes to help users find out about the latest changes to the Wazoku platform. The Wazoku Platform is a Software-as-a-Service (SaaS) Idea Management platform that provides organizations with a structured method to capture, evaluate, prioritize, select, and implement ideas to address business problems.
+While working at [Wazoku](https://support.wazoku.com/), I wrote monthly release notes to help users find out about the latest changes to the Wazoku Platform. The Wazoku Platform is a Software-as-a-Service (SaaS) Idea Management platform that provides organizations with a structured method to capture, evaluate, prioritize, select, and implement ideas to address business problems.
 
 **Tools used: Markdown, HubSpot, Jira, GIMP**
 

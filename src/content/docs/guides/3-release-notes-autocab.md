@@ -1,5 +1,5 @@
 ---
-title: Release Notes, Autocab
+title: 'Release Notes #2'
 description: An example of release notes for a software product.
 ---
 
