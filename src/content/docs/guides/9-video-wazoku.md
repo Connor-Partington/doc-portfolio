@@ -5,7 +5,9 @@ description: An example of a video guide for a software product.
 
 While working at [Wazoku](https://support.wazoku.com/), I scripted, recorded, and edited this video guide to help people understand how to use the Wazoku Platform. This is 1 out of 30 videos I created at the time for the Wazoku [Youtube channel](https://www.youtube.com/@Wazoku) and [Academy guides](https://www.wazoku.com/wazoku-academy/). The Wazoku Platform is a Software-as-a-Service (SaaS) Idea Management platform that provides organizations with a structured method to capture, evaluate, prioritize, select, and implement ideas to address business problems.
 
-**Tools used: Davinci Resolve, GIMP, Audacity**
+> You can also see an example of a [video script](../91-video-script) I wrote for one of the courses.
+
+**Tools used: Davinci Resolve, GIMP, Articulate Rise**
 
 # Get to Know the Wazoku Platform Interface
 
