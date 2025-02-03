@@ -19,7 +19,7 @@ Before starting any writing, I also reviewed all the existing documentation for 
 
 Once I was confident with my understanding of the products and the existing website, I started to work through the plan:
 
-1. [Zendesk]() was chosen as the new KB host since the support team was already using it for logging their tickets, and the existing KB feature was not being used.
+1. [Zendesk](https://www.zendesk.com/service/help-center/#step-1) was chosen as the new KB host since the support team was already using it for logging their tickets, and the existing KB feature was not being used.
 2. Each product was categorized into its own directory and subdirectories were created based on the product's structure.
 3. A style guide was chosen to adhere to, specifically [Microsoft's Writing Style Guide](https://learn.microsoft.com/en-us/style-guide/welcome/), to maintain a consistent style, voice, and tone across the documentation.
 4. User personas were defined to set the audience for each document.
