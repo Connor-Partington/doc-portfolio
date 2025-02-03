@@ -24,10 +24,13 @@ Once I was confident with my understanding of the products and the existing webs
 3. A style guide was chosen to adhere to, specifically [Microsoft's Writing Style Guide](https://learn.microsoft.com/en-us/style-guide/welcome/), to maintain a consistent style, voice, and tone across the documentation.
 4. User personas were defined to set the audience for each document.
 5. Any existing documentation was rewritten to match the new style guide and audiences, and new documentation was created to fill in any knowledge gaps for each product.
+
+![Screenshot of Autocab's new documentation website](../../../assets/autocab-wp-after.webp)
+
 6. A live chat service was added to the KB to aid the support team and give users an easy way to speak to support agents.
 7. A chatbot was configured with automated responses to handle questions that could be answered through the KB.
 8. A community forum was established to help users give their thoughts on the products, provide feedback, and suggest new features.
 
-![Screenshot of Autocab's new documentation website](../../../assets/autocab-wp-after.webp)
-
 In the end, the project evolved into creating a complete online help centre, based on Zendesk, to centralise Autocab's support, and help users to self-serve. This then led to a reduction of support tickets thanks to the searchability of the new knowledge base and users being able to find answers to their questions easily. 
+
+![Screenshot of Autocab's documentation website now](../../../assets/autocab-kb-now.png)
